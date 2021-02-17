@@ -1,2 +1,5 @@
 # r-collab
-For practicing Github
+
+Hi!
+
+For practicing Github collabs
